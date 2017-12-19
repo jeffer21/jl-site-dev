@@ -1,0 +1,19 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "JL.com web dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffer21/jl-site-dev.git"
+  },
+  "author": "Jefferson Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffer21/jl-site-dev/issues"
+  },
+  "homepage": "https://github.com/jeffer21/jl-site-dev#readme"
+}
