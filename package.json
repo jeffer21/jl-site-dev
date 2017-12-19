@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeffer21/jl-site-dev/issues"
   },
-  "homepage": "https://github.com/jeffer21/jl-site-dev#readme"
+  "homepage": "https://github.com/jeffer21/jl-site-dev#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
